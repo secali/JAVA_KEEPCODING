@@ -1,0 +1,14 @@
+Se trata de crear una agenda
+
+Los datos de cada Contacto seran los siguientes:
+
+Contacto[id, nombre, email, telefono]
+
+Crearan una clase que tendra diferentes metodos para cada opcion de CRUD
+
+1. Create, donde le pasaran los datos del Contacto
+2. Read, obtener los datos de un contacto por uno de sus campos (id, nombre, etc.)
+3. Read, obtener todos los Contactos (no se requiere ningun dato adicional)
+
+
+Finalmente se creara una clase tipo Main donde podran (en su metodo main, ejecutar alguna de las tres opciones)
